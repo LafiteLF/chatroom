@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "<ENTER_WORKER_NAME>",
+  "name": "f778d9a3dc7316f596aa13073376d575",
   "main": "src/index.ts",
   "compatibility_date": "2025-02-04",
   "observability": {
